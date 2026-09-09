@@ -1,16 +1,11 @@
-<!--
-Hey there, welcome to my profile!  
-Feel free to connect, explore, and collaborate 🚀
--->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!+👋;I+am+A+Passionate+Developer;Always+Learning+Something+New!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I+am+A+Passionate+Developer;Always+Learning+Something+New!&center=true&width=300&height=45" alt="Typing SVG" />
 </p>
 
 ---
 
-<h1 align="center">Hey 👋, I'm Aryan Bhatkar</h1>
-<h3 align="center">Software Developer | Problem Solver | Tech Enthusiast 🚀</h3>
+<h1 align="center">I'm Aryan Bhatkar</h1>
+<h3 align="center">Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/aryanbhatkar17-lang">
@@ -34,63 +29,57 @@ Feel free to connect, explore, and collaborate 🚀
 
 ### 👨‍💻 &nbsp; About Me
 
-- 🧑‍💻 I love to code and build scalable solutions  
-- 🚀 Always on the lookout for new technologies  
-- ⚡ Fun Fact: Debugging is my favorite adventure  
-- 📝 I document my thoughts in code and notes  
+-  I love to code and build scalable solutions  
+-  Always on the lookout for new technologies   
+-  I document my thoughts in code and notes  
 - 🔗 <a href="https://aryanbhatkar17-lang.github.io/" target="_blank">My Portfolio Website</a>
 
 ---
 
-### 🛠️ &nbsp;Languages
+### 🛠️ &nbsp;Tech Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&perline=10" />
-</p>
-
----
-
-### 🛠️ &nbsp;Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react&perline=10" />
-</p>
-
----
-
-### 🛠️ Libraries
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,pytorch,opencv" />
-</p>
-
----
-
-### ToolBox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma&perline=10" />
-</p>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center">Category</th>
+      <th align="center">Icons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&perline=10" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Frameworks</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,react&perline=10" alt="Frameworks"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Libraries</b></td>
+      <td align="center">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,pytorch,opencv" alt="Libraries"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>ToolBox</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma&perline=10" alt="ToolBox"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 🧰 &nbsp;Github Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanbhatkar17-lang&theme=radical&hide_border=true" alt="streak"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aryanbhatkar17-lang&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryanbhatkar17-lang&theme=react-dark&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanbhatkar17-lang&theme=radical&hide_border=true&date_format=j%2FM%2FY" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -118,10 +107,10 @@ Feel free to connect, explore, and collaborate 🚀
 Hi! I'm Aryan, a tech enthusiast from India who loves to turn ideas into reality with code.
 My journey so far has been full of curiosity, challenges, and continuous learning.
 
-- 🏫 Bachelor in Computer Science (in progress/graduated)
-- 👀 Exploring diverse tech stacks, frameworks, and fun side projects
-- 🏆 Regular participant in hackathons and coding competitions
-- 🌍 Love collaborating on open-source and sharing knowledge
+-  Bachelor in Computer Science (in progress/graduated)
+-  Exploring diverse tech stacks, frameworks, and fun side projects
+-  Regular participant in hackathons and coding competitions
+-  Love collaborating on open-source and sharing knowledge
 
 Let's build something cool together!
 </details>
