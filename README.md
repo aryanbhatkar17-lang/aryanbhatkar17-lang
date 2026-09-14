@@ -55,7 +55,7 @@
     <tr>
       <td align="center"><b>Frameworks</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,react&perline=10" alt="Frameworks"/>
+        <img src="https://skillicons.dev/icons?i=next.js,nodejs,react&perline=10" alt="Frameworks"/>
       </td>
     </tr>
     <tr>
